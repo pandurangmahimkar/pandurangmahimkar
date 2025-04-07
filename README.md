@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandurangmahimkar&label=Profile%20views&color=0e75b6&style=flat" alt="pandurangmahimkar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pandurangmahimkar" alt="pandurangmahimkar" /></a> </p>
+- 🌱 I’m currently learning **Java,SpringBoot & Other tools**
+
+- 👯 I’m looking to collaborate on **Full Stack Projects**
 
 - 📫 How to reach me **mahimkarpandurang2000@gmail.com**
 
@@ -19,4 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pandurangmahimkar&show_icons=true&locale=en&layout=compact" alt="pandurangmahimkar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pandurangmahimkar&show_icons=true&locale=en" alt="pandurangmahimkar" /></p>
-
